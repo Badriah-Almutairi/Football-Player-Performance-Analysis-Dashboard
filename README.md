@@ -161,7 +161,7 @@ Sports Performance Insights
 
 ### 🏠 Overview
 
-[![Overview](images/overview.png)](https://github.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/blob/87628d1d5a05a60964d9ea4c4fe28f5d7ae060f8/images/Overview.png)
+![Overview](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Overview.png)
 
 ### ⚽ Player Performance
 
