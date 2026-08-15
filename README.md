@@ -165,8 +165,8 @@ The filters are available across the dashboard pages, allowing users to perform 
 
 ### ⚽ Player Performance
 
-![Player Performance](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Player%20Performance.png)
+![Player Performance](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Player-Performance.png)
 
 ### 💰 Market Value & Injuries
 
-![Market Value & Injuries](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Market%20Value%20%26%20Injuries.png)
+![Market Value & Injuries](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Market-Value-Injuries.png)
