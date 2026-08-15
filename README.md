@@ -139,21 +139,21 @@ The filters are available across the dashboard pages, allowing users to perform 
 
 🔄 Project Workflow
 
-Raw Dataset
-     ↓
-Python & Pandas
-     ↓
-Data Cleaning & Preparation
-     ↓
-Cleaned Dataset
-     ↓
-Power BI
-     ↓
-Data Modeling & DAX
-     ↓
-Interactive Dashboard
-     ↓
-Sports Performance Insights
+**Raw Dataset**  
+↓  
+**Python & Pandas**  
+↓  
+**Data Cleaning & Preparation**  
+↓  
+**Cleaned Dataset**  
+↓  
+**Power BI**  
+↓  
+**Data Modeling & DAX**  
+↓  
+**Interactive Dashboard**  
+↓  
+**Sports Performance Insights**
 
 ⸻
 
@@ -165,8 +165,8 @@ Sports Performance Insights
 
 ### ⚽ Player Performance
 
-![Player Performance](images/player-performance.png)
+![Player Performance](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Player%20Performance.png)
 
 ### 💰 Market Value & Injuries
 
-![Market Value & Injuries](images/market-value-injuries.png)
+![Market Value & Injuries](https://raw.githubusercontent.com/Badriah-Almutairi/Football-Player-Performance-Analysis-Dashboard/main/images/Market%20Value%20%26%20Injuries.png)
