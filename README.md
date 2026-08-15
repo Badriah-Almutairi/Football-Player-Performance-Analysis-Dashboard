@@ -161,13 +161,12 @@ Sports Performance Insights
 
 ### 🏠 Overview
 
-![Overview](images/Overview.png)
+![Overview](images/overview.png)
 
 ### ⚽ Player Performance
 
-![Player Performance](images/Player%20Performance.png)
+![Player Performance](images/player-performance.png)
 
 ### 💰 Market Value & Injuries
 
-![Market Value & Injuries](images/Market%20Value%20%26%20Injuries.png)
-
+![Market Value & Injuries](images/market-value-injuries.png)
